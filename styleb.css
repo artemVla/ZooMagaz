@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+main p {
+    background-color: #F47F9F;
+}
+
+header {
+    background-color:#77E1F4 ;
+}
+
+a {
+    text-align: center;
+    margin: 100px;
+    background-color: #F47F9F;
+    padding: 10px;
+    border-radius: 52px;
+    border: 2px solid #c4667f;
+    text-decoration: none;
+}
